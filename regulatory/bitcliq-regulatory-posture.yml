@@ -1,0 +1,25 @@
+generated: '2026-09-28'
+source: https://www.bitcliq.com/politica-de-privacidade/
+method: searched
+signals:
+  data_subject_request:
+    evidence:
+      - source: https://www.bitcliq.com/politica-de-privacidade/
+        http_status: 200
+        fetched: "true"
+        quote: "O/a utilizador/a pode a todo o tempo, de acordo com a lei em vigor, exercer diretamente e por sua iniciativa os seguintes direitos: o direito a ser informado; o direito de acesso; o direito de retificação; o direito ao esquecimento; direito de oposição a marketing direto, inclusive à criação de perfis; o direito de opor-se ao tratamento tendo como base interesses legítimos; o direito à portabilidade dos dados; o direito à restrição e o direito a apresentar queixa junto da autoridade supervisora."
+    note: Provides data subject rights including access, rectification, erasure, portability, etc.
+  subprocessors:
+    evidence:
+      - source: https://www.bitcliq.com/politica-de-privacidade/
+        http_status: 200
+        fetched: "true"
+        quote: "A Bitcliq pode comunicar a subcontratantes dados pessoais dos/as utilizadores/as, sendo sempre a responsável pelo seu processamento. Mais uma vez, salientamos que as entidades subcontratadas pela Bitcliq são da nossa inteira confiança, sendo alvo de avaliações periódicas, para salvaguarda dos seus dados."
+    note: Acknowledges use of sub‑contractors for data processing.
+  data_retention:
+    evidence:
+      - source: https://www.bitcliq.com/politica-de-privacidade/
+        http_status: 200
+        fetched: "true"
+        quote: "recolhe, utiliza e conserva apenas os dados pessoais mínimos, necessários e suficientes para a finalidade em causa;"
+    note: States that only minimal personal data is retained, but no explicit retention period is given.

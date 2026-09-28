@@ -1,0 +1,11 @@
+generated: '2026-09-28'
+method: probed
+source: preflight
+
+deployment:
+  mode: none
+  endpoint: null
+  install: ""
+  package: ""
+  auth: none
+  verified: probed
